@@ -1,0 +1,25 @@
+﻿body{
+    background-color:#ffffff
+}
+
+form input[type=button] {
+    background: no-repeat center center;
+    width: 70px;
+    height: 40px;
+    font-size:20px;
+    color:blue;
+}
+
+#display {
+    background-color:#eddada;
+    width: 290px;
+    height: 30px;
+    text-align:right;
+}
+#zero{
+    width:145px;
+}
+#dot{
+    font-size:20px;
+    
+}

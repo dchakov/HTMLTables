@@ -1,0 +1,6 @@
+﻿form input[type=submit] {
+    background : url(images/submit-button.jpg) no-repeat center center;
+    width : 115px;
+    height :52px;
+}
+
